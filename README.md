@@ -17,6 +17,8 @@ The project is divided as follows:
 
 * `assets` - This is a directory with all the asset files - pictures and sounds.
 
+* `images` - contains imagery for strict github showcase (not used in software) 
+
 # Regarding AP Exam Terms and Conditions
 
 This project was untilized as a submission for a College Board class *(AP Computer Science Principles)*
@@ -26,3 +28,7 @@ This project was untilized as a submission for a College Board class *(AP Comput
    The files contained in this project are <ins>licensed under a BSD 3-Clause</ins> stating that any redistribution <ins>**MUST**</ins> retain the copyright notice <ins>**AND**</ins> that any redistributions, in whole or in part, of the software, shall not be permitted for the use of an AP College Class Submission or the Digital Portfolio (collegeboard.org). 
 
 The software, artistic works, and computer code are all protected under my Creative IP, and are not owned by College Board. 
+
+# 
+
+For a detailed view on the application, or to use my work as an APCSP Student Sample Reference, feel free to checkout my Exam Written Responses <a href="https://github.com/Ninja-Talon/4-Colors/blob/main/images/writtenResponses.pdf">**here**</a>!
