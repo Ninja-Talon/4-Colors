@@ -1,6 +1,6 @@
 # 4 Colors
 
-<img align="center" src="images/preview.png" alt="Preview Screenshot">
+<img align="center" src="images/preview.PNG" alt="Preview Screenshot">
 
 The project is divided as follows:
 
