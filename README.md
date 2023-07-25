@@ -1,5 +1,7 @@
 # 4 Colors
 
+<img align="center" src="images/preview.png" alt="Preview Screenshot">
+
 The project is divided as follows:
 
 * `applab/applab.js` - This file contains the applab library, which has all the
