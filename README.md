@@ -1,4 +1,4 @@
-<a href="#"><img align="center" src="images/logo.png" alt="Preview Screenshot">
+<a href="#"><img align="center" src="images/logo.png" alt="4 Colors">
 
 The project is divided as follows:
 
