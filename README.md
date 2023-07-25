@@ -16,9 +16,6 @@
 
 Any use of the software outside of the AppLab dependency or external from the code.org site *may not* function as intended. For best interaction experience, view it <a href="https://studio.code.org/projects/applab/6491vxRV76A15gOGMwrlkxDaAAtk8pRNnfbaYpzAG0Y">**here**</a>.
 #
-
-This project is divided as follows:
-
 * `applab/applab.js` - This file contains the applab library, which has all the
   javascript that applab uses to run the app. 
 
