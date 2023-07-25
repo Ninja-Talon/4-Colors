@@ -19,6 +19,8 @@ The project is divided as follows:
 
 * `images` - contains imagery for strict github showcase (not used in software) 
 
+# Installation
+
 # Regarding AP Exam Terms and Conditions
 
 This project was untilized as a submission for a College Board class *(AP Computer Science Principles)*
