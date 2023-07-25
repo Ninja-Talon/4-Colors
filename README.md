@@ -24,3 +24,5 @@ This project was untilized as a submission for a College Board class *(AP Comput
 * **This public github repository is <ins>NOT</ins> being shared to deliberately gain or attempt to gain, or to share an unfair advantage on any College Board test, nor is it threatening the integrity of the test itself.**
 
    The files contained in this project are <ins>licensed under a BSD 3-Clause</ins> stating that any redistribution <ins>**MUST**</ins> retain the copyright notice <ins>**AND**</ins> that any redistributions, in whole or in part, of the software, shall not be permitted for the use of an AP College Class Submission or the Digital Portfolio (collegeboard.org). 
+
+The software, artistic works, and computer code are all protected under my Creative IP, and are not owned by College Board. 
