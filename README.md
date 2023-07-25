@@ -1,6 +1,23 @@
 <a href="#"><img align="center" src="images/logo.png" alt="4 Colors">
+# Installation
+1. Navigate to the latest release (<a href="https://github.com/Ninja-Talon/4-Colors/releases/tag/v1.0.0">**v1.0.0**</a>) and `install the Source Code (zip)`
+2. Once downloaded on your personal device, `unzip the file`.
+   * The software will be in a folder with the same name as the repository.
+     * You can delete the remaining zipped file, as it will no longer be needed!
+3. To view and interact with the program, you can `run it in a text editor, host, or a JavaScript IDE`.
+   * <ins>View on AppLab (Code.Org):</ins>
+     * As simple as clicking <a href="https://studio.code.org/projects/applab/6491vxRV76A15gOGMwrlkxDaAAtk8pRNnfbaYpzAG0Y">**here**</a>!
+   * <ins>To do so on Visual Studio Code IDE</ins>:
+     * Launch Visual Studio Code and open the folder (4-Colors-1.0.0)
+     * Install the <a href="https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer">**Live Server**</a> extension if you do not already own it, select Enable, this may require you to restart VSC.
+     * Return to the "EXPLORER" view of the folder (main page)
+     * Select 'Go Live' to host (Bottom Left Corner on Default Settings)
+     * A locally hosted site will be prompted to you, you can now view the project!
 
-The project is divided as follows:
+Any use of the software outside of the AppLab dependency or external from the code.org site *may not* function as intended. For best interaction experience, view it <a href="https://studio.code.org/projects/applab/6491vxRV76A15gOGMwrlkxDaAAtk8pRNnfbaYpzAG0Y">**here**</a>.
+#
+
+This project is divided as follows:
 
 * `applab/applab.js` - This file contains the applab library, which has all the
   javascript that applab uses to run the app. 
@@ -17,9 +34,7 @@ The project is divided as follows:
 
 * `assets` - This is a directory with all the asset files - pictures and sounds.
 
-* `images` - contains imagery for strict github showcase (not used in software) 
-
-# Installation
+* `images` - contains imagery for strict github showcase (not used in software)
 
 # Regarding AP Exam Terms and Conditions
 
