@@ -1,5 +1,3 @@
-# 4 Colors
-
 <a href="#"><img align="center" src="images/logo.png" alt="Preview Screenshot">
 
 The project is divided as follows:
