@@ -1,6 +1,6 @@
 # 4 Colors
 
-<img align="center" src="images/logo.png" alt="Preview Screenshot">
+<img align="center" src="images/logo.png" alt="Preview Screenshot" target="blank">
 
 The project is divided as follows:
 
